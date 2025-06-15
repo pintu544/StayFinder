@@ -38,13 +38,13 @@ A full-stack web application similar to Airbnb for short-term and long-term prop
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<StayFinder>](https://github.com/pintu544/StayFinder)
    cd stayfinder
    ```
 
 2. Install all dependencies:
    ```bash
-   npm run install-all
+   npm run install
    ```
 
 3. Set up environment variables:
